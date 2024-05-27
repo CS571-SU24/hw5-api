@@ -1,0 +1,6 @@
+{
+    "SESSION_LENGTH": 3600,
+    "TIMEOUT_WINDOW_LENGTH": 30,
+    "TIMEOUT_WINDOW_REQS": 100,
+    "LOG_IPS": false
+}

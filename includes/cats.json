@@ -1,0 +1,361 @@
+[
+  {
+    "id": "55664751",
+    "name": "Augustus",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "2 months 8 days",
+    "gender": "Male",
+    "size": "Small",
+    "colors": [
+      "Black"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "52792d8a-732b-4d87-8bcc-0c34dae2c6eb.jpg"
+    ]
+  },
+  {
+    "id": "55753571",
+    "name": "Beautiful",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "1 year  1 month 5 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Grey"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "3387716f-d89a-47f9-b8fa-c3386ffa0319.jpg",
+      "07654021-35ab-47df-b1ef-6aef8d76c830.jpg",
+      "f013b7c9-7923-4f72-bbfa-afbe5442372a.jpg"
+    ],
+    "description": "Greetings, I'm Beautiful! And no, I'm not just describing my looks, that's my name! I'm a petite little lady who is ready to find the right home for me! I can be pretty shy when I'm first meeting new people, but if you give me time, I'll warm up and come out for some attention. I seem to be my bravest self with a quiet home and maybe a cat friend or 2. If you're looking for a cat like me to join your family, apply to meet Beautiful!"
+  },
+  {
+    "id": "54579258",
+    "name": "Boots",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "10 years 23 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "dcf9cfd9-7387-4bed-b8b6-f5e7056b8257.jpg",
+      "d2dc85f8-3526-409d-aa18-073685650927.jpg"
+    ],
+    "description": "Hi I'm Boots! I'm a sweet senior cat who is ready to spend my golden years with my future family! I grew up with 3 other cats in my old home, and I didn't meet many new people. Because of this, I definitely feel more confident with other cats around (like my brother, Oreo!), and it takes me a little while to warm up to new people. Oreo and I aren't bonded, but we would be more than happy to stay senior besties in our new home! If you're interested in helping a shy cat (or 2), apply to meet with Boots!"
+  },
+  {
+    "id": "55942339",
+    "name": "Curry",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "2 years 7 days",
+    "gender": "Male",
+    "size": "Medium",
+    "colors": [
+      "Orange",
+      "White"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "2186988d-2b77-451e-9c96-3e059fe37f8a.jpg"
+    ]
+  },
+  {
+    "id": "55504571",
+    "name": "Daisy",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "4 years 2 months 13 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Black"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "47453bfa-c1e5-4599-943d-51b7d7e3861b.jpg",
+      "15b5995c-8163-46d6-a43e-3e7a0fd2b234.jpg",
+      "d00ef0b3-f0ae-47f4-a80f-33a67ab7bb77.jpg"
+    ],
+    "description": "Hey, I'm Daisy! I'm a pretty lady who can't wait to find her new family! Living in the shelter was pretty scary, so I went to live in a foster home and I like that way better! I love to follow my foster mom all over the house - I like feeling included! I also love to play and zoom when I'm feeling extra crazy. I can be a little uncomfortable when I meet new people for the first time, but it doesn't take long before I decide you're nice and include you in my friendship circle. If I sound like the cat for you, apply to meet Daisy!"
+  },
+  {
+    "id": "55033890",
+    "name": "Frida Kahlo",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "4 years 4 months 21 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Brown"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "78263e2a-2ece-40ea-8ce3-3f1a097a7bd5.jpg",
+      "d14ab1b7-1e59-4694-981d-36f80b497a3e.jpg",
+      "0de9022d-9592-4298-bc29-851f79782e8c.jpg"
+    ],
+    "description": "Greetings, I'm Frida! I'm looking for a family that thinks I'm so special, they'd like to have 55 portraits of me around their house! I'm a compact little lady who loves soft, snuggly beds and pets! You can tell because you can hear my purr from across the room. I might be a little nervous to meet you at first, but I warm up quickly with some scratchies. If I sound like the kind of cat you want to be besties with, schedule an appointment to meet Frida Kahlo!"
+  },
+  {
+    "id": "55664763",
+    "name": "Hazel",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "1 year 29 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Black",
+      "Orange"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "0bb3dc98-fa9f-4f0c-b5df-6837693989a7.jpg",
+      "2d3b89a5-17fe-4920-8bb2-bd0290dd96df.jpg"
+    ],
+    "description": "Hello there, I'm Hazel! I'm an ex-mama who is ready to go out into the world and be her own lady! I just got done raising my litter of 4 kittens, but I'm still young and want to enjoy my playful years with my new family! When I was in foster with my kittens, I did not like that there were other cats around, so I'll need a family who is ready to love me and only me! If you're interested in meeting this sweet lady, apply to meet Hazel!SPECIAL NOTES: My fur is growing back after an allergic reaction to fleas."
+  },
+  {
+    "id": "55838323",
+    "name": "Kitty",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "2 years 21 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Orange",
+      "White"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "f58cd98e-dded-438a-8332-1664ee435dcb.jpg"
+    ],
+    "description": "Greetings, I'm Kitty! I'm a kind little woman who can't wait to find a family to love me! I might be a little shy when you first meet me, but I warm up really quickly with pets and attention! I'm a good roommate to other cats, and I might even feel more confident if there was another cat around. If this sounds like the lady for you, apply to meet Kitty!"
+  },
+  {
+    "id": "55753580",
+    "name": "Laszlo",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "3 years  1 month 5 days",
+    "gender": "Male",
+    "size": "Medium",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "2307a342-fdb4-42e6-acd1-a5ae8f753bfb.jpg",
+      "2721177f-fbfe-4428-a919-a678fcd13927.jpg"
+    ],
+    "description": "Greetings, I'm Laszlo! I'm an outgoing, goofy boy who is ready to be adopted by you! I love all sorts of people attention - pets and playtime are my favorites! I also really like being around other cats, I can just get a little too excited and forget that boundaries are a thing. If I sound like the boy for you, apply to meet Laszlo!"
+  },
+  {
+    "id": "55771543",
+    "name": "Lily",
+    "breed": "Domestic Longhair/Mix",
+    "age": "8 years  1 month 2 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Black"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "8f65b91e-172d-4345-961a-78d13c86a64d.jpg"
+    ],
+    "description": "Hi friends, I'm Lily! I'm a sweet, floofy senior gal who is ready to live the quiet life with my new family! I can be a little shy when I first meet new people, but I love pets and attention! I came from a previous home situation where I got stressed out by the kids, the dog, and the other cat - I would really love a home where I could enjoy the peace and quiet as your only pet! If I sound like the cat for you, apply to meet Lily!"
+  },
+  {
+    "id": "55706968",
+    "name": "Lisa Frank",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "1 year  1 month 12 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Black",
+      "Orange"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "e3f77d62-807f-4e8e-88fa-262876b25801.jpg",
+      "bcdbfe71-739f-4b83-a45e-db8ad64ad959.jpg",
+      "9342c90b-4c26-47b2-9d01-4c30672adbdb.jpg"
+    ],
+    "description": "Hello there, I'm Lisa Frank! I'm an ex-mama who is ready to go out into the world and be her own lady! I just got done raising my litter of 3 kittens, but I'm still young and want to enjoy my playful years with my new family! When I was in foster with my kittens, I did not like that there were other cats around. It's hard to say if it was because I was defending my kittens, or if I want to be an only child, so I'll need a family who is aware of that possibility and OK if I need to live by myself. If you're interested in meeting this sweet, chatty lady, apply to meet Lisa Frank!"
+  },
+  {
+    "id": "55056432",
+    "name": "Lizzy",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "2 years 4 months 14 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Brown"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "b6f906db-4335-4421-ac79-faed0ab48d17.jpg",
+      "acf32182-8cfe-4607-9873-fe66e5648757.jpg",
+      "13c88d99-adbc-4a38-b22e-067c767a920f.jpg"
+    ],
+    "description": "Hey, I'm Lizzy! I'm a chatty little lady who is looking for my new family! My foster mom says I've never met a toy I don't like, and a sun beam I don't want to snooze in. I can be wary of new people, but I really like pets when I warm up to you. Pick-ups aren't really my favorite, but I think my personality makes up for it! If I sound like your kind of cat, schedule an appointment to meet with Lizzy!SPECIAL NOTES: I have experience living with dogs"
+  },
+  {
+    "id": "55436887",
+    "name": "Nemo",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "8 years 2 months 26 days",
+    "gender": "Male",
+    "size": "Medium",
+    "colors": [
+      "Orange"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "11e14658-dff2-4d4b-be63-ea60d09877e1.jpg",
+      "ea8ef533-f0c4-4793-822a-b6d35a47e1a8.jpg"
+    ],
+    "description": "Howdy folks, I'm Nemo! I'm an older gentleman who is ready to kick back and enjoy life with my new family! Even though I'm considered a senior, I still have a lot of life to live and love to give! My age just means I'm more laid-back and enjoy living life at a more casual pace. If you think our vibes match, apply to meet with Nemo!"
+  },
+  {
+    "id": "55942300",
+    "name": "Nona",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "1 year 6 months 7 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Black"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "831dc477-2924-41ee-b127-eedc124df6d4.jpg"
+    ]
+  },
+  {
+    "id": "55942345",
+    "name": "Oregano",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "1 year 6 months 7 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "888de5dd-3f59-4f87-9ee3-be3a4fb6d575.jpg"
+    ]
+  },
+  {
+    "id": "54579232",
+    "name": "Oreo",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "10 years 23 days",
+    "gender": "Male",
+    "size": "Large",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "61d8a7d7-6f84-4022-abf5-5e48d7be3ffa.jpg",
+      "a6952d87-b20f-4616-91d0-bcff79c1e498.jpg",
+      "93fa71c3-73fb-428c-adc3-b221f84b0b9f.jpg"
+    ],
+    "description": "Hi I'm Oreo! I'm a sweet senior cat who is ready to spend my golden years with my future family! I grew up with 3 other cats in my old home, and I didn't meet many new people. Because of this, I definitely feel more confident with other cats around (like my sister, Boots!), and it takes me a little while to warm up to new people. Boots and I aren't bonded, but we would be more than happy to stay senior besties in our new home! If you're interested in helping a shy cat (or 2), apply to meet with Oreo!"
+  },
+  {
+    "id": "55942368",
+    "name": "Peppercorn",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "10 months 7 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Brown"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "6dbc092e-ccf0-40c8-bff3-7bb638f0197a.jpg"
+    ]
+  },
+  {
+    "id": "55436973",
+    "name": "Rebel",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "3 years 2 months 26 days",
+    "gender": "Male",
+    "size": "Medium",
+    "colors": [
+      "Black"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "a2fdf54f-0e24-4a8a-95a7-f9744691fd1e.jpg",
+      "51133521-32bc-485e-aad3-deb3faf51aba.jpg",
+      "40266f3b-9ec0-4216-b696-50919f1dd3b9.jpg"
+    ],
+    "description": "Hey folks, I'm Rebel. I'm a handsome, sleek boy who can't wait to meet you! I'm a really affectionate guy who loves attention and interacting with people. I love people so much, I don't want to share my space with any cats OR dogs - seeing them makes me a little cranky. But there's plenty of me to keep you busy! I'm a super smart cat, so I need a lot of stimulation from my people every day. I love to play, I love food puzzle toys, I love cat TV, and I love spending time on my harness outside. But most of my day I like to spend following my people around and joining them on whatever they're doing. I need a family who understands that keeping my brain busy makes me a happy, content boy. If you're looking to add a tiny genius cat to your home, apply to meet Rebel!"
+  },
+  {
+    "id": "55838344",
+    "name": "Ritz",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "1 year 22 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Black"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "8b6fbcaf-561d-46b8-821b-d68a35a621ad.jpg",
+      "afdf2620-37c3-4abf-a614-3fde408213ca.jpg"
+    ],
+    "description": "Hey there, I'm Ritz! I'm a friendly little gal who can't wait to meet you! I was a little nervous after my big drive here from IL, but now that I'm all settled in, I love all sorts of pets, attention, and playtime! The only thing I don't seem to really like is other cats - I'm not about that sharing life! If you're looking for a cute, little solo lady, apply to meet Ritz!"
+  },
+  {
+    "id": "55664730",
+    "name": "Sweetie",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "4 years 8 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Brown"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "498541df-4532-4504-be0e-ebaf80030726.jpg",
+      "b575bfa0-15be-4b02-a7e5-eb17eccbdb7d.jpg"
+    ]
+  },
+  {
+    "id": "55518742",
+    "name": "Toffee",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "4 years 2 months 10 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Black",
+      "Orange"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "cf9ab7dd-6da2-4259-84d0-702bdcf2438d.jpg"
+    ],
+    "description": "Hi, friends! I'm Toffee. I'm a laid-back lady with a purrsonality just as sweet as my namesake. I love to greet people - both human and cat - by sidling up to them and starting my purr engine. If you're interested in a gorgeous tortie with a heart of gold, apply to meet Toffee!SPECIAL NOTES: I'm on a urinary prescription diet"
+  }
+]
